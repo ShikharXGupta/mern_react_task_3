@@ -1,1 +1,1 @@
-# mern_react_task_3
+# MERN-React-Task-3
